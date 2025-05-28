@@ -9,7 +9,7 @@ In this project you will build such a pipeline.
 ## Link to Weights & Biases and GitHub repository
 
 Weights and Biases: https://wandb.ai/mthiag1-western-governors-university/nyc_airbnb?nw=nwusermthiag1
-GitHub repo:
+GitHub repo: https://github.com/mthiag1/Project-Build-an-ML-Pipeline-Starter.git
 
 ## Table of contents
 

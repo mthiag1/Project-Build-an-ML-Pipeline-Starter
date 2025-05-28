@@ -6,6 +6,11 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
+## Link to Weights & Biases and GitHub repository
+
+Weights and Biases: https://wandb.ai/mthiag1-western-governors-university/nyc_airbnb?nw=nwusermthiag1
+GitHub repo:
+
 ## Table of contents
 
 - [Preliminary steps](#preliminary-steps)

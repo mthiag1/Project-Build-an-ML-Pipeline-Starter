@@ -51,43 +51,43 @@ if __name__ == "__main__":
   
     parser.add_argument(
         "--input_artifact", 
-        type = str, # TYPE  : str, float or int,
-        help = "The input artifact name", # DESCRIPTION
+        type = str, ## TYPE  : str, float or int,
+        help = "The input artifact name", ## DESCRIPTION
         required = True
     )
 
     parser.add_argument(
         "--output_artifact", 
-        type = str # TYPE : str, float or int,
-        help = "The output artifact name" # DESCRIPTION,
+        type = str, ## TYPE : str, float or int,
+        help = "The output artifact name", ## DESCRIPTION,
         required = True
     )
 
     parser.add_argument(
         "--output_type", 
-        type = str, # TYPE : str, float or int,
-        help = "The output artifact type", # DESCRIPTION,
+        type = str, ## TYPE : str, float or int,
+        help = "The output artifact type", ## DESCRIPTION,
         required = True
     )
 
     parser.add_argument(
         "--output_description", 
-        type = str # TYPE : str, float or int,
-        help = "Description of the output artifact" # DESCRIPTION,
+        type = str, ## TYPE : str, float or int,
+        help = "Description of the output artifact", ## DESCRIPTION,
         required = True
     )
 
     parser.add_argument(
         "--min_price", 
-        type = float # TYPE : str, float or int,
-        help = "The minimum price to consider",# DESCRIPTION ,
+        type = float, ## TYPE : str, float or int,
+        help = "The minimum price to consider",## DESCRIPTION ,
         required = True
     )
 
     parser.add_argument(
         "--max_price",
-        type = float # TYPE : str, float or int,
-        help = "The maximum price to consider", # DESCRIPTION ,
+        type = float, ## TYPE : str, float or int,
+        help = "The maximum price to consider", ## DESCRIPTION ,
         required = True
     )
 
